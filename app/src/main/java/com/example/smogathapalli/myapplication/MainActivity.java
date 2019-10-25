@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
         int b = 100;
         int c = 110;
         int d = 120;
+        int e = 130;
 
     }
 
